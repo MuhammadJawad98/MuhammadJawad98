@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
-<!-- <h3 align="center">A passionate Mobile App developer from Pakistan</h3> -->
+# Hi there, I'm Muhammad Jawad - [Android Learners](https://www.youtube.com/channel/UC6kMl0JiGiKZlH9v3FjDlHg) 👋 
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC6kMl0JiGiKZlH9v3FjDlHg)
 [![Website](https://img.shields.io/website?label=AndroidLearners&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muhammadjawad98.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhammad_Jawad9)
