@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhammad_Jawad9)
 
 
-![Jawad's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadJawad98)
+![Jawad's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadJawad98&&show_icon=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 - 🔭 I’m currently working on Mizdah,
 - 🌱 I’m currently learning SwiftUi,
