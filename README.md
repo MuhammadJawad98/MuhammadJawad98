@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/muhammadjawad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadjawad98" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/muhammadjawad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadjawad98" height="30" width="40" /></a> -->
 <a href="https://twitter.com/muhammad_jawad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad_jawad9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad jawad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18056880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18056880" height="30" width="40" /></a>
@@ -37,7 +37,7 @@
 <a href="https://instagram.com/muhammad_jawad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_jawad98" height="30" width="40" /></a>
 <a href="https://dribbble.com/muhammad jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="muhammad jawad" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammad.jawad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammad.jawad98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/android learners" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android learners" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6kMl0JiGiKZlH9v3FjDlHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android learners" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muhammad jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad jawad" height="30" width="40" /></a>
 </p>
 
