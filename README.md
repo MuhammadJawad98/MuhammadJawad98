@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC6kMl0JiGiKZlH9v3FjDlHg)
 [![Website](https://img.shields.io/website?label=AndroidLearners&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muhammadjawad98.github.io/portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhammad_Jawad9)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Muhammad_Jawad9?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhammad_Jawad9)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadjawad98&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjawad98" /> </p>
