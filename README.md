@@ -11,7 +11,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/muhammad_jawad9" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad_jawad9?logo=twitter&style=for-the-badge" alt="muhammad_jawad9" /></a> </p> -->
 
-- 🔭 I’m currently working on [Mizdah](https://mizdah.com/) using Flutter
+- 🔭 I’m currently working on [vFairs](https://www.vfairs.com/) using Flutter
 
 - 🌱 I’m currently learning **SwiftUi**
 
