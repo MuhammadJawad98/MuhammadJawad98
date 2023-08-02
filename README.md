@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on [vFairs](https://www.vfairs.com/) using Flutter
 
-- 🌱 I’m currently learning **SwiftUi**
-
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC6kMl0JiGiKZlH9v3FjDlHg)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadJawad98](https://github.com/MuhammadJawad98)
